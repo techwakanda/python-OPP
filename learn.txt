@@ -1,0 +1,17 @@
+Python File Handling Basics
+
+Reading and writing files is a fundamental skill in programming. Python makes file operations straightforward with built-in functions.
+
+Key concepts:
+- open() function opens files in different modes (read, write, append)
+- with statement ensures files are properly closed
+- read() gets the entire content as a string
+- readlines() returns a list of lines
+- write() puts content into files
+
+Remember to handle exceptions when working with files:
+- FileNotFoundError
+- PermissionError
+- UnicodeDecodeError
+
+Practice makes perfect! Keep exploring different file operations in your Python journey.
